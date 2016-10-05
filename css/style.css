@@ -26,7 +26,7 @@
 @font-face {
     font-family: 'Conv_ufonts.com_engravers-gothic-bt';
     src: url('../fonts/ufonts.com_engravers-gothic-bt.eot');
-    src: local('ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã¢â‚¬Â¹Ãƒâ€¦Ã¢â‚¬Å“ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Âº'), url('../fonts/ufonts.com_engravers-gothic-bt.woff') format('woff'), url('../fonts/ufonts.com_engravers-gothic-bt.ttf') format('truetype'), url('../fonts/ufonts.com_engravers-gothic-bt.svg') format('svg');
+    src: local('ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¹ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Âº'), url('../fonts/ufonts.com_engravers-gothic-bt.woff') format('woff'), url('../fonts/ufonts.com_engravers-gothic-bt.ttf') format('truetype'), url('../fonts/ufonts.com_engravers-gothic-bt.svg') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -173,7 +173,7 @@ section,body{
     background-size:cover;
 }
 .first_layout{
-    background-image: url("../img/Layer3.png");
+    background-image: url("../img/Layer3.jpg");
     height: 670px;
     -webkit-background-size:cover;
     background-size:cover;
@@ -438,7 +438,7 @@ ul.nav.nav-pills li {
     clear: both;
 }
 .second_layout{
-    background-image: url("../img/Layer2.png");
+    background-image: url("../img/Layer2.jpg");
     background-size: cover;
     color:white;
     position: relative;
@@ -556,7 +556,7 @@ a.btn_invest {
 }
 
 .third_layout{
-    background-image: url("../img/layer4.png");
+    background-image: url("../img/layer4.jpg");
     background-size:cover;
     padding-top: 143px;
     padding-bottom: 140px;
@@ -621,7 +621,7 @@ img.logomin {
     text-align: center;
 }
 .four_layout{
-    background-image: url(../img/Layer5.png);
+    background-image: url(../img/Layer5.jpg);
     background-size:cover;
     color:white;
     padding-top: 150px;
@@ -873,7 +873,7 @@ a.invest_big_btn {
     padding-left: 45px;
 }
 .five_layout{
-    background-image: url("../img/Layer6.png");
+    background-image: url("../img/Layer6.jpg");
     -webkit-background-size:cover;
     background-size:cover;
     padding-top:100px;
@@ -894,7 +894,7 @@ a.invest_big_btn:hover {
     text-decoration: none;
 }
 .six_layout{
-    background-image:url('../img/Layer7.png');
+    background-image:url('../img/Layer7.jpg');
     -webkit-background-size:cover;
     background-size:cover;
     padding-top:100px;
@@ -1030,21 +1030,21 @@ a.ref_big_btn {
     letter-spacing: 14px;
 }
 .seven_layout {
-    background-image: url(../img/Layer8.png);
+    background-image: url(../img/Layer8.jpg);
     -webkit-background-size: cover;
     background-size: cover;
     padding-top: 100px;
     padding-bottom: 100px;
 }
 .eight_layout{
-    background-image: url(../img/Layer9.png);
+    background-image: url(../img/Layer9.jpg);
     -webkit-background-size: cover;
     background-size: cover;
     padding-top: 100px;
     padding-bottom: 100px;
 }
 .ten_layout{
-    background-image: url(../img/Layer11.png);
+    background-image: url(../img/Layer11.jpg);
     -webkit-background-size: cover;
     background-size: cover;
     padding-top: 100px;
@@ -1125,7 +1125,7 @@ a.ref_big_btn {
 
 }
 .nine_layout {
-    background-image: url(../img/Layer10.png);
+    background-image: url(../img/Layer10.jpg);
     -webkit-background-size: cover;
     background-size: cover;
     padding-top: 100px;
@@ -1604,3 +1604,189 @@ span.label-language {
 .flr{
     float:right;
 }
+
+
+
+
+
+
+
+/*ANOTHER ANOTHER ANOTHER ANOTHER ANOTHER ANOTHER ANOTHER ANOTHER ANOTHER ANOTHER ANOTHER */
+
+.login_section{
+    background-image: url(../img/login_layout.jpg);
+    -webkit-background-size: cover;
+    background-size: cover;
+    display:flex;
+    align-items: center;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+}
+.input_full_block {
+    width: 515px;
+    display: inline-block;
+}
+p.label_input {
+    line-height: normal;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 7px;
+    text-align: center;
+}
+
+input.login_input {
+    line-height: normal;
+    background-color: transparent;
+    border: 2px solid rgba(255, 255, 255, 0.57);
+    width: 515px;
+    height: 60px;
+    border-radius: 37px;
+    outline: none;
+    text-align: center;
+    color: white;
+    font-size: 34px;
+}
+
+p.error_message {
+    line-height: normal;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 7px;
+    color: rgba(220,6,130,1);
+    text-align: center;
+    display: none;
+}
+.hidden_check {
+    display: none;
+}
+
+.login_checkbox {
+    display: inline-block;
+    width: 23px;
+    height: 23px;
+    border: 3px solid rgba(255, 255, 255, 0.47);
+    border-radius: 7px;
+    vertical-align: middle;
+}
+
+.chx_label {
+    display: inline-block;
+    vertical-align: middle;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 3px;
+    text-align: center;
+    padding-left: 10px;
+    font-size: 12px;
+}
+
+a.help_link {
+    display: inline-block;
+    font-weight: 600;
+    color: white;
+=: underline
+text-transform: uppercase;
+    margin-right: 32px;
+=: underline
+cursor: pointer;
+    line-height: normal;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a.help_link:last-child {
+    margin-right: 0px;
+}
+
+input.submit_login {
+    background: -moz-linear-gradient(359deg, rgba(220,5,130,1) 0%, rgba(220,5,130,1) 1%, rgba(126,56,158,1) 100%);
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(220,5,130,1)), color-stop(1%, rgba(220,5,130,1)), color-stop(100%, rgba(126,56,158,1)));
+    background: -webkit-linear-gradient(359deg, rgba(220,5,130,1) 0%, rgba(220,5,130,1) 1%, rgba(126,56,158,1) 100%);
+    background: -o-linear-gradient(359deg, rgba(220,5,130,1) 0%, rgba(220,5,130,1) 1%, rgba(126,56,158,1) 100%);
+    background: -ms-linear-gradient(359deg, rgba(220,5,130,1) 0%, rgba(220,5,130,1) 1%, rgba(126,56,158,1) 100%);
+    background: linear-gradient(91deg, rgba(220,5,130,1) 0%, rgba(220,5,130,1) 1%, rgba(126,56,158,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dc0582', endColorstr='#7e389e',GradientType=1 );
+    padding: 26px 10px;
+    color: white;
+    outline: none;
+    border: none;
+    text-transform: uppercase;
+    border-radius: 50px;
+    line-height: normal;
+    display: block;
+    letter-spacing: 14px;
+    width: 100%;
+    padding-left: 70px;
+    padding-right: 70px;
+    min-width: 510px;
+}
+
+.submit_login_div {
+    margin: 0 auto;
+    padding: 5px;
+    display: inline-block;
+    border-radius: 52px;
+    border: 1px solid rgba(255, 255, 255, 0.42);
+}
+input.login_input:focus {
+    border-color: white;
+}
+a.help_link:hover {
+    background: -moz-linear-gradient(359deg, rgba(220,5,130,1) 0%, rgba(220,5,130,1) 1%, rgba(126,56,158,1) 100%);
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(220,5,130,1)), color-stop(1%, rgba(220,5,130,1)), color-stop(100%, rgba(126,56,158,1)));
+    background: -webkit-linear-gradient(359deg, rgba(220,5,130,1) 0%, rgba(220,5,130,1) 1%, rgba(126,56,158,1) 100%);
+    background: -o-linear-gradient(359deg, rgba(220,5,130,1) 0%, rgba(220,5,130,1) 1%, rgba(126,56,158,1) 100%);
+    background: -ms-linear-gradient(359deg, rgba(220,5,130,1) 0%, rgba(220,5,130,1) 1%, rgba(126,56,158,1) 100%);
+    background: linear-gradient(91deg, rgba(220,5,130,1) 0%, rgba(220,5,130,1) 1%, rgba(126,56,158,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dc0582', endColorstr='#7e389e',GradientType=1 );
+    -webkit-background-clip: text;
+    color: transparent;
+    text-decoration: underline;
+    cursor: pointer;
+}
+a.help_link:after {content: '';display: block;width: 100%;height: 2px;background-color: white;}
+a.help_link:hover:after {
+    content: '';
+    background: -moz-linear-gradient(359deg, rgba(220,5,130,1) 0%, rgba(220,5,130,1) 1%, rgba(126,56,158,1) 100%);
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(220,5,130,1)), color-stop(1%, rgba(220,5,130,1)), color-stop(100%, rgba(126,56,158,1)));
+    background: -webkit-linear-gradient(359deg, rgba(220,5,130,1) 0%, rgba(220,5,130,1) 1%, rgba(126,56,158,1) 100%);
+    background: -o-linear-gradient(359deg, rgba(220,5,130,1) 0%, rgba(220,5,130,1) 1%, rgba(126,56,158,1) 100%);
+    background: -ms-linear-gradient(359deg, rgba(220,5,130,1) 0%, rgba(220,5,130,1) 1%, rgba(126,56,158,1) 100%);
+    background: linear-gradient(91deg, rgba(220,5,130,1) 0%, rgba(220,5,130,1) 1%, rgba(126,56,158,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dc0582', endColorstr='#7e389e',GradientType=1 );
+
+}
+.login_checkbox{
+    cursor: pointer;
+}
+.login_checkbox.active{
+    background-image: url("../img/Check.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    border-color:white;
+}
+input.login_input::-webkit-input-placeholder {color:rgba(255, 255, 255, 0.57);}
+input.login_input::-moz-placeholder          {color:rgba(255, 255, 255, 0.57);}
+input.login_input:-moz-placeholder           {color:rgba(255, 255, 255, 0.57);}
+input.login_input:-ms-input-placeholder      {color:rgba(255, 255, 255, 0.57);}
+
+.col_reg_box {
+    margin-bottom: 48px;
+}
+.col_reg_box.last {
+    margin-bottom: 7px;
+}
+.reg_va {
+    line-height: 112px;
+}
+
+.chx_box.reg {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+}
+/*ANOTHER ANOTHER ANOTHER ANOTHER ANOTHER ANOTHER ANOTHER ANOTHER ANOTHER ANOTHER ANOTHER */
